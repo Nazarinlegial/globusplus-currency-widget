@@ -46,14 +46,14 @@
 <html>
 <head>
     <!-- CSS -->
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gp-currency-widget@1.0.0/gp-currency-widget.css">
+    <link rel="stylesheet" href="https://unpkg.com/@globusplus/widget@1.0.1/gp-currency-widget.css">
 </head>
 <body>
     <!-- Контейнер віджета -->
     <div data-gp-currency-widget></div>
     
     <!-- JavaScript -->
-    <script src="https://cdn.jsdelivr.net/npm/gp-currency-widget@1.0.0/gp-currency-widget.iife.js" defer></script>
+    <script src="https://unpkg.com/@globusplus/widget@1.0.1/gp-currency-widget.iife.js" defer></script>
 </body>
 </html>
 ```
@@ -66,7 +66,8 @@
 
 <!-- Ручна ініціалізація -->
 <script>
-window.GPCurrencyWidget.init();
+const component = document.getElementById('componentId');    
+window.GPCurrencyWidget.init(component);
 </script>
 ```
 
