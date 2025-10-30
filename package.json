@@ -1,0 +1,26 @@
+{
+  "name": "@globusplus/widget",
+  "version": "1.0.0",
+  "description": "Віджет курсу валют від GlobusPlus для партнерських сайтів.",
+  "author": "GlobusPlus (https://globusplus.ua) | Valentyn Suliaiev & Nazar Kovalchuk ",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Nazarinlegial/globusplus-currency-widget.git"
+  },
+  "keywords": [
+    "widget",
+    "currency",
+    "globusplus"
+  ],
+
+  "main": "gp-currency-widget.iife.js",
+
+  "files": [
+    "gp-currency-widget.iife.js",
+    "gp-currency-widget.css",
+    "image",
+    "LICENSE.txt",
+    "README.md"
+  ]
+}

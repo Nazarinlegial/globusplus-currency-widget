@@ -46,14 +46,14 @@
 <html>
 <head>
     <!-- CSS -->
-    <link rel="stylesheet" href="gp-currency-widget.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gp-currency-widget@1.0.0/gp-currency-widget.css">
 </head>
 <body>
     <!-- Контейнер віджета -->
     <div data-gp-currency-widget></div>
     
     <!-- JavaScript -->
-    <script src="gp-currency-widget.iife.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/gp-currency-widget@1.0.0/gp-currency-widget.iife.js" defer></script>
 </body>
 </html>
 ```
