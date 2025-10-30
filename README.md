@@ -1,7 +1,7 @@
 
 <div align="center">
 
-![GlobusPlus Logo](image/logo.svg)
+![GlobusPlus Logo](image/w-logo.svg)
 
 ![GlobusPlus Logo](image/widget.png)
 
